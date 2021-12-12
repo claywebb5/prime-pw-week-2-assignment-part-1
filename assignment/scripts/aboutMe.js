@@ -72,7 +72,6 @@ else {
 }
 
 
-
 // STRETCH GOALS:
 
 // 16 - Make a variable called `mostPets` and a conditional that
@@ -82,7 +81,9 @@ else {
 // console.log `mostPets` after the conditional has run.
 
 
+
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
+
 
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
