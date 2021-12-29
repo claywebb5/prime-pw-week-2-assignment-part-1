@@ -80,18 +80,18 @@ else {
 // be sure to think through all the scenarios.
 // console.log `mostPets` after the conditional has run.
 
-let mostPets = pets || friendsPets;
+let mostPets;
 
 if (pets > friendsPets ) {
-  console.log(mostPets);
+  console.log('The most pets are', mostPets = pets);
 }
 else if ( pets < friendsPets ) {
-  console.log(mostPets);
+  console.log('The most pets are', mostPets = friendsPets);
 }
 else {
   console.log('None');
 }
-
+console.log(mostPets);
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
 
