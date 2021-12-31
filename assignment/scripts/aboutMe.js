@@ -95,12 +95,12 @@ else {
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
 
 
-switch (mostPets) {
+switch (true) {
   case pets>friendsPets:
-    mostPets = pets;
+    console.log('The most pets are', mostPets = pets);
     break;
   case pets<friendsPets:
-    mostPets = friendsPets;
+    console.log('The most pets are', mostPets = friendsPets);
     break;
   default :
     console.log('None');
