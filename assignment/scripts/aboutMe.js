@@ -107,3 +107,5 @@ switch (true) {
 }
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
+
+adventurous === true ? console.log('Adventures are great!') : console.log('How about we stay home?');
